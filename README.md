@@ -1,4 +1,4 @@
-<img style="width: 400px; display: inline-block; mardin: auto;" align="right"  alt="Working on Computer gif" src="./code png gif.gif">
+<img style="width: 400px; display: inline-block; mardin: auto;" align="center"  alt="Working on Computer gif" src="./code png gif.gif">
 
 <h1 align="center">Hi 👋, I'm Syed Shayan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
