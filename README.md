@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next js**
 
-- 👨‍💻 All of my projects are available at [https://tailwind-app-snowy.vercel.app/](https://tailwind-app-snowy.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://syed-shayan.vercel.app]
 
 - 📫 How to reach me **shayansyed712@gmail.com**
 
